@@ -22,15 +22,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-![image](https://github.com/AdamDCollins7/osticket-prereqs/assets/99514625/6386cca7-d846-4d1f-96fa-1c0b908ea006)
-
-
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
 
 ![image](https://github.com/AdamDCollins7/post-install-config/assets/99514625/83889e08-c4fb-4b0a-a49f-0b4f08b3e8c1)
 
