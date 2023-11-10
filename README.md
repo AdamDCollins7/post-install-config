@@ -33,12 +33,8 @@ Start with system settings
 
 ![image](https://github.com/AdamDCollins7/post-install-config/assets/99514625/acd64c37-b02c-4ada-8bc6-d9149c139ec9)
 
-<p>
-Creating roles and departs, as well as configuring teams
-</p>
-<br />
 
 <p>
-
+Practiced different simple precedures like creating roles and departments, as well as different made up users
 </p>
 <br />
